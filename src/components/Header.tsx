@@ -1,6 +1,6 @@
 import Apps from '../assets/icons/Apps';
 import Cancel from '../assets/icons/Cancel';
-import ColoredSearch from '../assets/icons/coloredSearch';
+import ColoredSearch from '../assets/icons/ColoredSearch';
 import Image from '../assets/icons/Image';
 import More from '../assets/icons/More';
 import News from '../assets/icons/News';
