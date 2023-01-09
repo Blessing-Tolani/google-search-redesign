@@ -20,7 +20,7 @@ export default function About() {
           </svg>
           <span> cristainoronaldo.com</span>
         </button>
-        <p className="text-sm text-darkGray">
+        <p className="text-sm text-black1">
           Cristiano Ronaldo dos Santos Aveiro GOIH ComM is a Portuguese
           professional footballer who plays as a forward for Saudi Professional
           League club Al Nassr and captains the Portugal national team.{' '}
