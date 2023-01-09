@@ -1,10 +1,11 @@
-export default function Forward() {
+export default function Upward() {
   return (
     <svg
       focusable="false"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
       fill="#70757a"
+      transform="rotate(-90)"
       width={24}
       height={24}
     >

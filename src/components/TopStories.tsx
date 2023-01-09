@@ -1,4 +1,3 @@
-import React from 'react';
 import Forward from '../assets/icons/Forward';
 import Button from './Button';
 
@@ -14,7 +13,7 @@ export default function TopStories() {
       </p>
       <hr className="bg-darkGray my-3" />
       <div className="flex space-x-3">
-        <div className="pr-4 border-r border-lightGray">
+        <div className="pr-4 border-r border-lightGray1">
           <div>
             <img
               className="rounded-xl w-[314px] h-[172px]"
@@ -89,7 +88,7 @@ export default function TopStories() {
         <p className="text-xl text-darkGray">Also in the news</p>
         <hr className="bg-darkGray my-3" />
         <div className="flex">
-          <div className="flex justify-between pr-4 border-r border-lightGray">
+          <div className="flex justify-between pr-4 border-r border-lightGray1">
             <div>
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAAQCAMAAACm24RqAAAAmVBMVEX///8AAAAIAAAPAAA1Ly57eHfu7u7k4+NRTUzd3NwMAAD72Nz++fr6wcjQz84gFhVbV1b19fX3n6rHxsa5uLdKRUSBfn2npaQhGRZoZWNBPDsZDQtkYF/97e+Mion83eH6ztT0fo74srvydYOcmZgtJiVwbGzyaXr2kJ/4qLPzboL0h5MnIB7rACfrACD1lqDtLkXpAADuQFTnSyM8AAAB9UlEQVRIid2U626bQBCFz8Byv5ub8WKMCRAT0zjt+z9cZyFtf1SqFCmrqh0JZrUM2k9nZw7wT0QY/G2CP0WP8Br1H/4tjrfkxfYn8/wWQx8+BS98Iu2xZcvm18jPRFMFQZSYRhtD7iUjF6ctCdhCzESZXsBwCA/RwAubDA9Yc5SJAPIVyKQRo2KQk+xQEDlIzQoYZ5AF3oB7Ahze1hyH59uiMjEOPIePZB5iWJYuZ26yZ7MDTKOA5TMZckcBwrUlA6KK9eIFwfVluEUboMc9xYvRlGWNd0CPCA0DOgzKgKxgzdBmpXpvkq2nlw5qSG73MOrPDHhs52QDK49y+yb8wnGpQiPbcW35Ki15skoXmEnSnKHm5Oqeki+vh3vfn1lCkmOxK5fzcgM8CuHyTiObitpMAaZFV0KJzCpzH65+YoRa+c7R4/72dTk/9ivOlB7ZsU32HvSLragxanTUYr9i/pIpRPK4uDgahVbASzjcwstluP4YkhRoO0yJ6n9h/AKMDcL7kJS5EtFiR+JUk27Ax4LLt+cLAyrVGgs1s3mmGtyfCvojMmUzlVKw8AtV6U62Yus0+2AYHAYc+mjhydx8uJPEPriaJs1s0GTy8SnnE5OIZjfqU11SI4QdC0pL0uwyCJ6W6ON/ZfFuz7F+m0Fw1n/G/xvfATlaHn26ejkvAAAAAElFTkSuQmCC" />
               <p className="hover:underline text-blueLink w-[22ch] mt-2">

@@ -12,7 +12,7 @@ import Voice from '../assets/icons/Voice';
 export default function Header() {
   return (
     <section className="">
-      <div className="mx-7 flex justify-between items-center mt-7">
+      <div className="mx-7 flex justify-between items-center mt-7 ">
         <div className="flex space-x-10 items-center">
           <img
             src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"
